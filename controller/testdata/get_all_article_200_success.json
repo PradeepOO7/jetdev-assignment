@@ -1,0 +1,55 @@
+{
+  "message": "success",
+  "status": "200",
+  "data": [
+    {
+      "id": 1,
+      "nickname": "my_mic",
+      "title": "Test",
+      "content": "testing",
+      "createDate": "2020-05-19T00:00:00+05:30"
+    },
+    {
+      "id": 2,
+      "nickname": "my_mic",
+      "title": "Test",
+      "content": "testing",
+      "createDate": "2023-02-07T23:07:56.319+05:30"
+    },
+    {
+      "id": 3,
+      "nickname": "my_mic",
+      "title": "Test",
+      "content": "testing",
+      "createDate": "2023-02-07T23:09:02.543+05:30"
+    },
+    {
+      "id": 4,
+      "nickname": "my_mic",
+      "title": "Test",
+      "content": "testing",
+      "createDate": "2023-02-07T23:09:20.564+05:30"
+    },
+    {
+      "id": 5,
+      "nickname": "my_mic",
+      "title": "Test",
+      "content": "testing",
+      "createDate": "2023-01-07T23:07:56.319+05:30"
+    },
+    {
+      "id": 6,
+      "nickname": "my_mic",
+      "title": "Test",
+      "content": "testing",
+      "createDate": "2023-02-01T23:07:56.319+05:30"
+    },
+    {
+      "id": 7,
+      "nickname": "test",
+      "title": "In Test Function",
+      "content": "Testing",
+      "createDate": "2023-02-08T18:38:05.706+05:30"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "message": "success",
+  "status": "200",
+  "data": [
+    {
+      "id": 5,
+      "nickname": "pradeep",
+      "content": "nice article",
+      "createDate": "2023-02-01T23:07:56.319+05:30"
+    },
+    {
+      "id": 6,
+      "nickname": "jetdev",
+      "content": "i agree great article",
+      "createDate": "2023-02-01T23:07:56.319+05:30"
+    },
+    {
+      "id": 9,
+      "nickname": "Anand",
+      "content": "i agree great article",
+      "createDate": "2023-02-01T23:07:56.319+05:30"
+    },
+    {
+      "id": 10,
+      "nickname": "test",
+      "content": "Testing",
+      "createDate": "2023-02-08T18:38:05.732+05:30"
+    },
+    {
+      "id": 12,
+      "nickname": "test",
+      "content": "Testing",
+      "createDate": "2023-02-08T18:41:04.155+05:30"
+    }
+  ]
+}
